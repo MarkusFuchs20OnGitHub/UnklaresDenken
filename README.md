@@ -1,5 +1,5 @@
 # UnklaresDenken
-Diskussion von "Die Kunst des klaren Denkens von Rolf Dobelli"
+Diskussion von "Die Kunst des klaren Denkens" von Rolf Dobelli
 
 Ein typisches irrefuehrendes Buechlein -- die Aufdeckung der Fehler und der
 Ideologien dahinter sollte nuetzlich sein.
