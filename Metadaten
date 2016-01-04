@@ -1,0 +1,19 @@
+@Book{Dobelli2014Denkfehler,
+  author =       {Rolf Dobelli},
+  title =        {Die Kunst des klaren Denkens: 52 Denkfehler, die Sie besser anderen {\"{u}}berlassen},
+  publisher =    {Deutscher Taschenbuch Verlag},
+  year =         2014,
+  isbn =         {978-3-423-34826-3},
+  url =          {www.dobelli.com/?lang=de},
+  doi =          {10.3139/9783446430402},
+  annote =       {Vorhanden.}
+}
+
+Github:
+
+https://github.com/OKullmann/UnklaresDenken
+
+Mitarbeiter:
+
+Markus Fuchs      MF
+Oliver Kullmann   OK
